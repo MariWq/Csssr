@@ -5,5 +5,5 @@ idea/maven/junit/selenide
 checking content for size -
 class widthMainPageTest.java
 
-#result
+# result
 is displayed in console http://prntscr.com/qb3m3t
