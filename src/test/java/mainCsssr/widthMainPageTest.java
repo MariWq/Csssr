@@ -17,11 +17,13 @@ public class widthMainPageTest {
         SelenideElement searchInput = $(".wrap");
 
         String classWidthSize = searchInput.getCssValue("width"); /*ширина блока класса wrap*/
+        String realWidth = new String("1000px"); //дефолтное значение
 
-        if("1000" != classWidthSize) {
-            System.out.println("Ширина контента больше 1000, она равна " + classWidthSize);
-        }else {
-            System.out.println("Ширина контента равна");
+        if(classWidthSize.equals(realWidth)) {
+            System.out.println("Ширина контента равна 1000px");
+        }
+        else {
+            System.out.println("Ширина контента больше 1000, width = " + classWidthSize);
         }
     }
 
