@@ -6,4 +6,4 @@ checking content for size -
 class widthMainPageTest.java
 
 # result
-is displayed in console http://prntscr.com/qb3m3t
+is displayed in console http://prntscr.com/qb5b23
