@@ -4,7 +4,6 @@
     <list default="true" id="6b2fd804-eb91-4feb-afd7-207ed4695b14" name="Default" comment="save new file">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/mainCsssr/widthMainPageTest.class" afterPath="$PROJECT_DIR$/target/test-classes/mainCsssr/widthMainPageTest.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/mainCsssr/widthMainPageTest.java" afterPath="$PROJECT_DIR$/src/test/java/mainCsssr/widthMainPageTest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -705,14 +704,11 @@
       <updated>1576391709636</updated>
       <workItem from="1576391714700" duration="6147000" />
       <workItem from="1576414185121" duration="2230000" />
-      <workItem from="1576425295546" duration="1648000" />
+      <workItem from="1576425295546" duration="2487000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="widthMainPageTest_comparingClassValue - 2019.12.15 at 19h 02m 17s.xml">
-      <configuration name="widthMainPageTest.comparingClassValue" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="widthMainPageTest_comparingClassValue - 2019.12.15 at 19h 04m 25s.xml">
       <configuration name="widthMainPageTest.comparingClassValue" configurationId="JUnit" />
     </history-entry>
@@ -740,9 +736,12 @@
     <history-entry file="widthMainPageTest_comparingClassValue - 2019.12.15 at 19h 16m 52s.xml">
       <configuration name="widthMainPageTest.comparingClassValue" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="widthMainPageTest_comparingClassValue - 2019.12.15 at 19h 29m 00s.xml">
+      <configuration name="widthMainPageTest.comparingClassValue" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10025000" />
+    <option name="totallyTimeSpent" value="10864000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
